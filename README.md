@@ -42,13 +42,6 @@ Feel free to reach out via:
 
 ---
 
-## 📊 GitHub Stats  
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilsonrljr&show_icons=true&theme=dark)](https://github.com/wilsonrljr)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonrljr&layout=compact&theme=dark)](https://github.com/wilsonrljr)
-
----
-
 ## 🔗 Useful Links  
 
 📦 **SysIdentPy**: [GitHub Repo](https://github.com/wilsonrljr/sysidentpy) | [Documentation](https://sysidentpy.org/)  
