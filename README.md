@@ -7,6 +7,12 @@
 
 ---
 
+## 📌 Featured Projects  
+
+🔹 [SysIdentPy](https://github.com/wilsonrljr/sysidentpy) - A Python package for system identification and time series forecasting using NARMAX models.   
+
+---
+
 ## 📌 About Me  
 
 I work on **Nonlinear Dynamical Models, Time Series Forecasting, NARMAX Stability, and Control**. My primary focus is on applying advanced mathematical models to solve real-world forecasting and control problems.  
