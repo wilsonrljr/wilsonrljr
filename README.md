@@ -2,7 +2,7 @@
 
 🎯 **Head of Data Science & MLOps** at [RD Saúde](https://rdsaude.com.br/)  
 🛠 **Creator & Maintainer** of [SysIdentPy](https://sysidentpy.org/)  
-📖 **Author** of *[Nonlinear System Identification and Forecasting](https://sysidentpy.org/book/0%20-%20Preface/)*  
+📖 **Author** of *[Nonlinear System Identification and Forecasting: Theory and Practice with SysIdentPy](https://sysidentpy.org/book/0%20-%20Preface/)*  
 🎸 **Hobbies**: Playing guitar & video games  
 
 ---
@@ -13,7 +13,7 @@ I work on **Nonlinear Dynamical Models, Time Series Forecasting, NARMAX Stabilit
 
 I created **SysIdentPy**, a Python package designed for **system identification** and **time series forecasting** using NARMAX models. You can check out my open source book on the topic here:  
 
-[![Nonlinear System Identification](https://github.com/wilsonrljr/sysidentpy-data/blob/4085901293ba5ed5674bb2911ef4d1fa20f3438d/book/assets/Nonlinear_System_identification.png?raw=true)](https://sysidentpy.org/book/0%20-%20Preface/)  
+[![Nonlinear System Identification and Forecasting: Theory and Practice with SysIdentPy](https://github.com/wilsonrljr/sysidentpy-data/blob/4085901293ba5ed5674bb2911ef4d1fa20f3438d/book/assets/Nonlinear_System_identification.png?raw=true)](https://sysidentpy.org/book/0%20-%20Preface/)  
 
 📕 *[Nonlinear System Identification and Forecasting: Theory and Practice with SysIdentPy](https://sysidentpy.org/book/0%20-%20Preface/)*  
 
