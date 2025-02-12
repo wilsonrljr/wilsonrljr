@@ -16,7 +16,13 @@ At the moment my **main interests** are: Nonlinear Dynamical Models, Timeseries 
 
 #### Contact
 
-- Links [Discord](https://discord.gg/8eGE3PQ)
-- Work Related [linkedin.com/in/wilsonrljr](https://linkedin.com/in/wilsonrljr)
+<p align="center">
+  <a href="https://www.linkedin.com/in/wilsonrljr"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://twitter.com/wilsonrljr"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="mailto:wilsonrljr@outlook.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://wa.me/5511937791798"><img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="whatsapp"/></a>
+  <a href="https://www.instagram.com/wilsonrljr"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+  <a href="https://discord.gg/4hFZpqTf"><img src="https://img.icons8.com/color/344/discord-logo.png" alt="discord"/></a>
+</p>
 
 ---
