@@ -22,7 +22,7 @@ At the moment my **main interests** are: Nonlinear Dynamical Models, Timeseries 
   <a href="mailto:wilsonrljr@outlook.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://wa.me/5511937791798"><img src="https://img.icons8.com/color/96/000000/whatsapp.png" alt="whatsapp"/></a>
   <a href="https://www.instagram.com/wilsonrljr"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
-  <a href="https://discord.gg/4hFZpqTf"><img src="https://img.icons8.com/color/344/discord-logo.png" alt="discord"/></a>
+  <a href="https://discord.gg/4hFZpqTf"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
 </p>
 
 ---
