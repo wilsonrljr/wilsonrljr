@@ -1,5 +1,3 @@
----
-
 # 🚀 Hi, I'm **Wilson Rocha**  
 
 🎯 **Head of Data Science & MLOps** at [RD Saúde](https://rdsaude.com.br/)  
