@@ -53,7 +53,7 @@ Feel free to reach out via:
 ## 🔗 Useful Links  
 
 📦 **SysIdentPy**: [GitHub Repo](https://github.com/wilsonrljr/sysidentpy) | [Documentation](https://sysidentpy.org/)  
-📚 **Book**: [Read Online](https://sysidentpy.org/book/0-Preface/)
+📚 **Book**: [Read Online](https://sysidentpy.org/book/0-Preface/)  
 💼 **Company**: [RD Saúde](https://rdsaude.com.br/)  
 
 ---
