@@ -2,7 +2,7 @@
 
 🎯 **Head of Data Science & MLOps** at [RD Saúde](https://rdsaude.com.br/)  
 🛠 **Creator & Maintainer** of [SysIdentPy](https://sysidentpy.org/)  
-📖 **Author** of *[Nonlinear System Identification and Forecasting: Theory and Practice with SysIdentPy](https://sysidentpy.org/book/0%20-%20Preface/)*  
+📖 **Author** of *[Nonlinear System Identification and Forecasting: Theory and Practice with SysIdentPy](https://sysidentpy.org/book/ 0-Preface/)*  
 🎸 **Hobbies**: Playing guitar & video games  
 
 ---
